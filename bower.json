@@ -1,0 +1,8 @@
+{
+  "name": "WebViewJsBridge",
+  "version": "1.0.0",
+  "main": ["./dist/js/WebViewJsBridge.js"],
+  "ignore": [
+      "**/.*"
+  ]
+}
